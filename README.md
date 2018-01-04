@@ -1,2 +1,1 @@
-# LeetCode-in-Python
-test
+While solving the problems, I'll make share with my answer.
