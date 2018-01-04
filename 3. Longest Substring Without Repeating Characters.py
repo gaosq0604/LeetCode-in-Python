@@ -16,4 +16,3 @@ class Solution:
                 p=p[q+1:len(p)]
                 p+=s[i]
         return a
-                

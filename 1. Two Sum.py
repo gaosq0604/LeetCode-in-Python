@@ -6,4 +6,4 @@ class Solution:
             if m in d:
                 return [d[m], i]
             else:
-                d[nums[i]] = i
+                d[nums[i]] = i 
