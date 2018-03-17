@@ -1,1 +1,1 @@
-While solving the problems, I'll make share with my answer.
+While solving these problems, I'll make share with my answer.
