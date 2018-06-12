@@ -1,1 +1,2 @@
-While solving these problems, I'll make share with my answer.
+# Description
+While solving problems, I'll make share of my answers in python.
